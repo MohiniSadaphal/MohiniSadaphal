@@ -31,12 +31,6 @@ Copy
 pip install dash plotly pandas
 Download the IPL datasets (matches.csv and deliveries.csv) and place them in the same directory as the script
 
-Usage
-Run the dashboard with:
-
-Copy
-python app.py
-Then open your browser to http://127.0.0.1:8050/
 
 Data Sources
 The dashboard uses two CSV files:
